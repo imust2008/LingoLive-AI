@@ -1,0 +1,7 @@
+{
+  "name": "LingoLive AI",
+  "description": "A high-performance language learning app featuring a real-time conversational AI partner powered by Gemini 2.5 Native Audio for natural, low-latency practice.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
